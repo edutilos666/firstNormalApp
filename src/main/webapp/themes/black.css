@@ -1,0 +1,24 @@
+   * {
+         font-family:"Comic Sans MS"; 
+        }
+      .table_home, .table_home th, .table_home td {
+         border: 1px solid black; 
+      }
+      
+      .table_home th {
+        background-color: blue; 
+        color: white; 
+      }
+      .table_home td {
+        background-color: yellow; 
+        color: black; 
+      }
+      
+        .errors {
+       color:red; 
+        }
+
+body {
+    background-color: #888;
+    color: white;
+}
